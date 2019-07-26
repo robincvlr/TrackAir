@@ -1,3 +1,3 @@
 # TrackAir
 
-![](Utils/Mockup.PNG)
+![](https://github.com/robincvlr/TrackAir/Utils/Mockup.PNG)

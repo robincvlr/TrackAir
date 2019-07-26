@@ -1,3 +1,3 @@
 # TrackAir
 
-![Image](/Utils/Mockup.PNG)
+![Image](/Utils/mockup.PNG)
